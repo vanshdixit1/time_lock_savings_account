@@ -1,7 +1,7 @@
 # Stellar Time-Lock Savings Account
 
 ## Table of Contents
-- [Project Title](#project-title)
+- [Project Title](#Stellar Time-Lock Savings Account)
 - [Project Description](#project-description)
 - [Project Vision](#project-vision)
 - [Key Features](#key-features)
