@@ -1,0 +1,26 @@
+{
+  "name": "stellar-timelock-savings",
+  "version": "1.0.0",
+  "description": "A decentralized savings application where users can lock XLM tokens for a specific period and earn guaranteed interest rewards.",
+  "main": "index.js",
+  "scripts": {
+    "start:backend": "npm --prefix backend start",
+    "start:frontend": "npm --prefix frontend start",
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanshdixit1/time_lock_savings_account.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanshdixit1/time_lock_savings_account/issues"
+  },
+  "homepage": "https://github.com/vanshdixit1/time_lock_savings_account#readme",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
