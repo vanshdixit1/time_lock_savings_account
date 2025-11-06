@@ -24,6 +24,24 @@ A decentralized savings application where users can lock XLM tokens for a specif
 │              (Smart Contracts)                  │
 └─────────────────────────────────────────────────┘
 ```
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/850cd14d-24cb-4a18-958e-b26b9d35c7a8" />
+
+
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/a0b7aa49-2837-44f8-aed1-c68536880615" />
+
+
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/9f6a236a-fa8f-4c2d-8dac-73cdb1d3e18a" />
+
+
+## 📲 Mobile View
+
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/68ac2987-e881-45fb-940e-bfdc540eea6c" />
+
+
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/e2263d06-e8c1-461c-aeef-fc3389bc1968" />
+
+## 🎬 Demo Video
+🎥 [Watch the demo on Google Drive](https://drive.google.com/file/d/1XtT5CMC-QJ9KsRP5dvDOC6aONmgmnO-y/view?usp=sharing) 
 
 ## 📋 Prerequisites
 
@@ -230,7 +248,6 @@ soroban contract build
 - ✅ Smart Contract Complete
 - ✅ MongoDB Integration
 - ✅ Stellar SDK Integration
-- 🔄 Production Deployment (In Progress)
 
 ## 🤝 Contributing
 
